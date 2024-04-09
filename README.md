@@ -1,2 +1,0 @@
-# Medusa
-DDoS Tool 
