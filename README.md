@@ -8,6 +8,17 @@
   
  ### Refference :
 - Telegram : https://t.me/RipperSec
+  
+# Update 3.0
+
+- Fixed Ui Upgraded
+- DDoS Attack Power Stable
+- Multi Request Method Added
+- vShield Website Bypass ✅
+- ShieldSquare Captcha Bypass ✅
+- Script Stuck Fixed
+- Website Status Live Response
+- Fixed Bugs
 
  ## Usage :
 
@@ -15,12 +26,19 @@
 Usage: node Medusa.js <link> <time> <rps> <threads> <proxy>
 ````
 
- ## How to use & Installation Command :
+ ## Installation Command :
  
 ```
-~ Termux : https://telegra.ph/Medusa-V30-Installation-Command---Termux-03-13
-~ Linux & Ubuntu : https://telegra.ph/Medusa-V30-Installation-Command---Linux--Ubuntu-03-13
-~ Windows : https://telegra.ph/Medusa-V30-Installation-Command---Linux--Ubuntu-03-13
+sudo apt install curl 
+curl https://raw.githubusercontent.com/creationix/nvm/master/install.sh | bash
+source ~/.bashrc
+nvm install --lts
+python3 installer.py
+```
+
+ ## Proxy Scrape Command :
+ ```
+node scraper.js
 ```
 
  ## OS Support :
