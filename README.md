@@ -23,6 +23,9 @@ Usage: node Medusa.js <link> <time> <rps> <threads> <proxy>
 ~ Windows : https://telegra.ph/Medusa-V30-Installation-Command---Linux--Ubuntu-03-13
 ```
 
+ ## OS Support :
+ --> Ubuntu / Linux / Debian / Windows / Termux
+
 ## Donation :
 
 https://sociabuzz.com/kudagila/donate
