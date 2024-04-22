@@ -24,6 +24,7 @@
 
 ```
 Usage: node Medusa.js <link> <time> <rps> <threads> <proxy>
+Example: node Medusa.js https://example.com 500 30 10 proxy.txt
 ````
 
  ## Installation Command :
