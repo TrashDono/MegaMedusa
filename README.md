@@ -40,8 +40,8 @@ node scraper.js
  ## OS Support :
  --> Ubuntu / Linux / Debian / Windows / Termux
 
-## Donation :
-https://sociabuzz.com/kudagila/donate
+## If you want to donate, click on the button :
+<a href="[https://saweria.co/whomrx](https://sociabuzz.com/kudagila/donate)"><img title="Donate" src="https://img.shields.io/badge/Donate-KudaGila-yellow?style=for-the-badge&logo=github"></a>
 
 ## Disclaimer :
 This tool only for Education, Pentesting, and Research Purposes!
