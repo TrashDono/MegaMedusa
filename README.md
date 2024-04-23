@@ -16,6 +16,9 @@
 - Ram & Cpu Usage (Low)
 - Fixed Bugs
 
+ ## Display :
+ ![Screenshot_1](photo_2024-04-24_02-06-49.jpg)
+
  ## Usage :
 
 ```
