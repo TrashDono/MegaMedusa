@@ -23,7 +23,7 @@ Example: node MegaMedusa.js https://example.com 500 30 10 proxy.txt
 ```
 ## Instructions :
 - **Target**: By entering the victim's link target, you will be able to run a zombie botnet army to attack the victim
-- **RPS**: Bytes is a term commonly used as a unit of data storage in computers
+- **RPS**: Requests per second: A metric that measures the throughput of a system
 - **Threads**: thrs is a measure of bytes
  ## Installation Command :
 ```
