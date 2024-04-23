@@ -1,4 +1,4 @@
-# MegaMedusa Layer-7 DDoS Tool v3.0
+# MegaMedusa Layer-7 DDoS Tool v3.1
  ### About :
 - UAM Challenges Bypass ✅
 - Cloudflare NoSec ✅
