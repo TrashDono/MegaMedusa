@@ -9,7 +9,7 @@
 - ShieldSquare Captcha Bypass ✅
   
  ### Refference :
-- Telegram : https://t.me/RipperSec
+<a href="(https://t.me/RipperSec)"><img title="Telegram" src="https://img.shields.io/badge/RipperSec-blue?style=for-the-badge&logo=telegram"></a>
   
  ### Update v3.1 :
 - Lagging Fixed & More Compatible
@@ -41,7 +41,7 @@ node scraper.js
  --> Ubuntu / Linux / Debian / Windows / Termux
 
 ## If you want to donate, click on the button :
-<a href="[https://saweria.co/whomrx](https://sociabuzz.com/kudagila/donate)"><img title="Donate" src="https://img.shields.io/badge/Donate-KudaGila-yellow?style=for-the-badge&logo=github"></a>
+<a href="(https://sociabuzz.com/kudagila/donate)"><img title="Donate" src="https://img.shields.io/badge/Donate-KudaGila-yellow?style=for-the-badge&logo=github"></a>
 
 ## Disclaimer :
 This tool only for Education, Pentesting, and Research Purposes!
