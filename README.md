@@ -1,4 +1,4 @@
-# Medusa Layer-7 DDoS Tool v3.0
+# MegaMedusa Layer-7 DDoS Tool v3.0
  ### About :
 - UAM Challenges Bypass ✅
 - Cloudflare NoSec ✅
@@ -9,22 +9,18 @@
  ### Refference :
 - Telegram : https://t.me/RipperSec
   
-# Update 3.0
+# Update 3.1
 
-- Fixed Ui Upgraded
-- DDoS Attack Power Stable
-- Multi Request Method Added
-- vShield Website Bypass ✅
-- ShieldSquare Captcha Bypass ✅
-- Script Stuck Fixed
-- Website Status Live Response
+- Lagging Fixed & More Compatible
+- More power & bypasses
+- Ram & Cpu Usage (Low)
 - Fixed Bugs
 
  ## Usage :
 
 ```
-Usage: node Medusa.js <link> <time> <rps> <threads> <proxy>
-Example: node Medusa.js https://example.com 500 30 10 proxy.txt
+Usage: node MegaMedusa.js <link> <time> <rps> <threads> <proxy>
+Example: node MegaMedusa.js https://example.com 500 30 10 proxy.txt
 ````
 
  ## Installation Command :
