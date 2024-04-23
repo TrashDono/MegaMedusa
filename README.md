@@ -15,13 +15,15 @@
 - Fixed Bugs
  ## Usage :
 ```
-Usage: node MegaMedusa.js <link> <time> <rps> <threads> <proxy>
-Example: node MegaMedusa.js https://example.com 500 30 10 proxy.txt
+Usage: node MegaMedusa.js <link> <time> <rps> <threads> <proxy> --max-old-space-size=<ram limit>
+Example: node MegaMedusa.js https://example.com 500 30 10 proxy.txt --max-old-space-size=3000
 ```
 ## Instructions :
 - **Target**: By entering the victim's link target, you will be able to run a zombie botnet army to attack the victim
 - **RPS**: Requests per second: A metric that measures the throughput of a system
-- **Threads**: thrs is a measure of bytes
+- **Threads**: threads is a measure of bytes
+- **Proxy**: While using proxy, you will attack in different ip & country and make traffic flooding
+- **--max-old-space-size**: This for limit your ram usage to avoid throttle / lag
  ## Installation Command :
 ```
 sudo apt install curl 
