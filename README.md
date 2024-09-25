@@ -34,7 +34,7 @@ python3 installer.py
 ```
  ## Proxy Scrape Command :
 ```
-node scraper.js
+python3 scrape.py
 ```
  ## OS Support :
  --> Ubuntu / Linux / Debian / Windows / Termux
