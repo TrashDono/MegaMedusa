@@ -26,10 +26,7 @@ Example: node MegaMedusa.js https://example.com 500 30 10 proxy.txt
 
  ## Installation Command :
 ```
-sudo apt install curl 
-curl https://raw.githubusercontent.com/creationix/nvm/master/install.sh | bash
-source ~/.bashrc
-nvm install --lts
+python3 nvminstaller.py
 python3 installer.py
 ```
  ## Proxy Scrape Command :
