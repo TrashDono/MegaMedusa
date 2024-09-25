@@ -29,6 +29,12 @@ Example: node MegaMedusa.js https://example.com 500 30 10 proxy.txt
 python3 nvminstaller.py
 python3 installer.py
 ```
+ ## Note: Please make sure your Nvm Version is V20 :
+```
+Nvm Version Check Command :
+nvm install --lts
+```
+
  ## Proxy Scrape Command :
 ```
 python3 scrape.py
