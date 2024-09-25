@@ -1,9 +1,6 @@
 import os
 import sys
-sudo apt install curl 
-curl https://raw.githubusercontent.com/creationix/nvm/master/install.sh | bash
-source ~/.bashrc
-nvm install --lts
+
 os.system('sudo apt install curl ')
 os.system('curl https://raw.githubusercontent.com/creationix/nvm/master/install.sh | bash')
 os.system('source ~/.bashrc')
