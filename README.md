@@ -28,6 +28,9 @@ Example: node MegaMedusa.js https://example.com 500 30 10 proxy.txt
 ```
 python3 nvminstaller.py
 python3 installer.py
+------------------------
+After this commands installed. Restart your terminal.
+
 ```
  ## Note: Please make sure your NodeJS Version is V20 :
 ```
