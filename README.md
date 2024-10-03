@@ -1,6 +1,14 @@
 # MegaMedusa Machine Layer-7 DDoS Tool v3.1
- ![Screenshot_1](photo_2024-04-24_02-06-49.jpg)
- 
+
+## MegaMedusa V3.2 Main Display :
+ ![Main](maindisplay.jpg)
+
+### What is MegaMedusa?
+- MegaMedusa is NodeJS DDoS Machine Layer-7 provided by RipperSec Team.
+
+### News About MegaMedusa :
+- https://www.radware.com/blog/security/2024/08/megamedusa-rippersec-public-web-ddos-attack-tool/
+  
  ### Security that MegaMedusa can bypass :
 - UAM Challenges Bypass ✅
 - Cloudflare NoSec ✅
@@ -24,43 +32,43 @@
 - Script Run More Smoothly Compared to Version 3.1
 - VPS/RPD Suspend Problem Solved.
 
- ## Usage :
+### Usage :
 ```
 Usage: node MegaMedusa.js <link> <time> <rps> <threads> <proxy> 
 Example: node MegaMedusa.js https://example.com 500 30 10 proxy.txt 
 ```
 
-## Instructions :
+### Instructions :
 - **Target**: By entering the victim's link target, you will be able to run a zombie botnet army to attack the victim
 - **RPS**: Requests per second: A metric that measures the throughput of a system
 - **Threads**: threads is a measure of bytes
 - **Proxy**: While using proxy, you will attack in different ip & country and make traffic flooding
 
- ## Installation Command :
+### Installation Command :
 ```
 python3 nvminstaller.py
 python3 installer.py
 ------------------------
 After this commands installed. Restart your terminal.
 ```
- ## Note: Please make sure your NodeJS Version is V20 :
+### Note: Please make sure your NodeJS Version is V20 :
 ```
 -> NodeJS Version Command Check :
 nodejs -v
 ```
 
- ## Proxy Scrape Command :
+### Proxy Scrape Command :
 ```
 python3 scrape.py
 ```
- ## OS Support :
+### OS Support :
 - Debian (Recommended).
 - Ubuntu.
 - Kali Linux.
 - Termux.
 - Windows.
 
- ## Minimum Device Specifications :
+### Minimum Device Specifications :
 - 2GB Ram.
 - 2 Core.
 - Internet Speed Minimum 30mbps.
