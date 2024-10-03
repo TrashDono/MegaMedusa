@@ -62,8 +62,8 @@ nodejs -v
 python3 scrape.py
 ```
 ### OS Support :
-- Debian (Recommended).
-- Ubuntu.
+- Debian.
+- Ubuntu (Recommended).
 - Kali Linux.
 - Termux.
 - Windows.
