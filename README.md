@@ -1,4 +1,4 @@
-# MegaMedusa Machine Layer-7 DDoS Tool v3.1
+# MegaMedusa Machine Layer-7 DDoS Tool v3.2
 
 ## MegaMedusa V3.2 Main Display :
  ![Main](maindisplay.jpg)
