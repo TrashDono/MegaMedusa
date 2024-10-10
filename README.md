@@ -46,7 +46,7 @@ Example: node MegaMedusa.js https://example.com 500 30 10 proxy.txt
 
 ### Installation Command :
 ```
-python3 nvminstaller.py
+python3 nvminstall.py
 python3 installer.py
 ------------------------
 After this commands installed. Restart your terminal.
