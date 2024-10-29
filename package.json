@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "childprocess": "^2.0.2",
+    "crypto": "^1.0.1",
+    "header-generator": "^2.1.56",
+    "https": "^1.0.0",
+    "net": "^1.0.2",
+    "request": "^2.88.2",
+    "url": "^0.11.4"
+  }
+}
