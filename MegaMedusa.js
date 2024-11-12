@@ -40,6 +40,9 @@ if (process.argv.length < 0x7) {
     console.log(" [0;33m           ║     [0mTelegram : [32mhttps://t.me/RipperSec      [0;33m║  ");
   }
   if (process.argv.length < 0x7) {
+    console.log(" [0;33m           ║     [0mDecrypted by :  [32mplaystation451      [0;33m║  ");
+  }
+  if (process.argv.length < 0x7) {
     console.log(" [0;33m           ╚════════════════════════════════════════════╝");
   }
   if (process.argv.length < 0x7) {
