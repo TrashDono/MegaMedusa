@@ -1,4 +1,3 @@
-
 const net = require('net');
 const http2 = require("http2");
 const tls = require('tls');
@@ -9,7 +8,7 @@ const fs = require('fs');
 const axios = require('axios');
 const https = require('https');
 const childProcess = require('child_process');
-process.setMaxListeners(0x0);
+process.setMaxListeners(0);
 require("events").EventEmitter.defaultMaxListeners = 0x0;
 process.on('uncaughtException', function (_0x8932d0) {});
 if (process.argv.length < 0x7) {
